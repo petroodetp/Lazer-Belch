@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 075cf38c5dac88d48801fcca338dc629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 671611988963164203
+    second: Toiledaraigne_0
+  - first:
+      213: -378421200503656035
+    second: Toiledaraigne_1
+  - first:
+      213: -595648741115750370
+    second: Toiledaraigne_2
+  - first:
+      213: 8920517374277053876
+    second: Toiledaraigne_3
+  - first:
+      213: -2210269835353053047
+    second: Toiledaraigne_4
+  - first:
+      213: -6664073609600298596
+    second: Toiledaraigne_5
+  - first:
+      213: 7150354983910606481
+    second: Toiledaraigne_6
+  - first:
+      213: -7338738118717061177
+    second: Toiledaraigne_7
+  - first:
+      213: -3916573986337125455
+    second: Toiledaraigne_8
+  - first:
+      213: 942151763695131720
+    second: Toiledaraigne_9
+  - first:
+      213: -5556337491831954573
+    second: Toiledaraigne_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Toiledaraigne_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2591
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b200b0dab8b025900800000000000000
+      internalID: 671611988963164203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2399
+        width: 450
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b0805ce39fbaf0800000000000000
+      internalID: -378421200503656035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_2
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2303
+        width: 642
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1813e630a4dbb7f0800000000000000
+      internalID: -595648741115750370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_3
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 2239
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdeb7af94b0ccb70800000000000000
+      internalID: 8920517374277053876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_4
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 2239
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98825069b4b8351e0800000000000000
+      internalID: -2210269835353053047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1215
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9118be1c547483a0800000000000000
+      internalID: -6664073609600298596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_6
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1215
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1968fe149f92b3360800000000000000
+      internalID: 7150354983910606481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_7
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1215
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c740463090972a90800000000000000
+      internalID: -7338738118717061177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_8
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1215
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb07d7d5b885a9c0800000000000000
+      internalID: -3916573986337125455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_9
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 1215
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c5e8f8902331d00800000000000000
+      internalID: 942151763695131720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toiledaraigne_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 770
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373eb2b6d7ce3e2b0800000000000000
+      internalID: -5556337491831954573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Toiledaraigne_0: 671611988963164203
+      Toiledaraigne_1: -378421200503656035
+      Toiledaraigne_10: -5556337491831954573
+      Toiledaraigne_2: -595648741115750370
+      Toiledaraigne_3: 8920517374277053876
+      Toiledaraigne_4: -2210269835353053047
+      Toiledaraigne_5: -6664073609600298596
+      Toiledaraigne_6: 7150354983910606481
+      Toiledaraigne_7: -7338738118717061177
+      Toiledaraigne_8: -3916573986337125455
+      Toiledaraigne_9: 942151763695131720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
